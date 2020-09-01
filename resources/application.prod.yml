@@ -1,0 +1,7 @@
+---
+groupName: 95.216.26.184
+tenantDataList:
+- tenantName: dhi_examuat1
+  uri: mongodb://examuaat:Tm53R28uYQdU@95.216.26.184:47118/dhi_examuat1
+- tenantName: dhi_examuat2
+  uri: mongodb://ex2ua2at:Tm%2AO9XwW8xdU@95.216.26.184:47118/dhi_examuat2

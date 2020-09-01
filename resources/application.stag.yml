@@ -1,0 +1,23 @@
+---
+groupName: 195.201.9.67
+tenantDataList:
+- tenantName: dhi_staging_university
+  uri: mongodb://sdfxbwndhi:Qax%26op%23%24X02c@195.201.9.67:47118/dhi_staging_university
+- tenantName: examqa_university
+  uri: mongodb://examination:wR4Gpwez6@195.201.9.67:47118/dhi_examination_qa_university
+- tenantName: uat1_university
+  uri: mongodb://spanuat1:Sp%40nu%40t%21@195.201.9.67:47118/dhi_uat1
+- tenantName: qa_examination
+  uri: mongodb://anaunmdues:Ha83%40mvf83UyM7@195.201.9.67:47118/qa_examination
+
+---
+groupName: 195.201.9.67
+tenantDataList:
+- tenantName: dhi_staging_university
+  uri: mongodb://sdfxbwndhi:Qax%26op%23%24X02c@195.201.9.67:47118/dhi_staging_university
+- tenantName: examqa_university
+  uri: mongodb://examination:wR4Gpwez6@195.201.9.67:47118/dhi_examination_qa_university
+- tenantName: uat1_university
+  uri: mongodb://spanuat1:Sp%40nu%40t%21@195.201.9.67:47118/dhi_uat1
+- tenantName: qa_examination
+  uri: mongodb://anaunmdues:Ha83%40mvf83UyM7@195.201.9.67:47118/qa_examination
